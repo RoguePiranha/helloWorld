@@ -1,23 +1,13 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program displays the text "Hello World!" in the terminal. It is written in Python 3. It is a simple program that I wrote to begin with the basics of the Python programming language.
 
-{Provide a description of your software}
+[Software Demo Video](https://loom.com/share/3e30de8f2c32415e9108dc781fe6027f)
 
-{Describe your purpose for creating this software.}
+## Development Environment
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+I used VS Code as a text editor and Python 3 as the programming language. I used the terminal in VS Code to run the program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+## Useful Websites
 
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools - Python](https://www.w3schools.com/python/)
